@@ -1,1 +1,4 @@
 remote_theme: "zerostaticio/jekyll-serif-theme"
+
+plugins:
+  - jekyll-remote-theme
