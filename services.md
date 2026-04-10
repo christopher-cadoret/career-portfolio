@@ -1,8 +1,7 @@
----
-    layout: single
+layout: single
     title: "Strategic Services"
     header:
-      overlay_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=80"
+      overlay_image: "http://googleusercontent.com/image_collection/image_retrieval/13168825381073049250_0"
       overlay_filter: 0.5
     ---
     
@@ -14,8 +13,9 @@
     
     ## Cultural Architecture & High-Performance Leadership
     
-    Implementing "Team First" and "Grit" frameworks to transform corporate culture into one of resilience, accountability, and shared success. Fostering environments where top talent thrives, innovation flourishes, and teams are empowered to achieve extraordinary results.
+    Building and nurturing high-performance cultures grounded in shared values, clear communication, and continuous learning. Driving employee engagement and fostering an environment where talent thrives and business objectives are achieved.
     
-    ## Operational Excellence & PMP Execution
+    ## Go-to-Market Strategy & Execution
     
-    Utilizing PMP-certified project management methodologies to bridge the gap between complex technical initiatives (IoT/VoIP/SaaS) and tangible business ROI. Driving operational efficiency, ensuring flawless execution, and delivering projects on time and within budget, aligned with strategic objectives.
+    Designing and implementing comprehensive go-to-market strategies that align product, marketing, and sales efforts for maximum impact. Identifying target markets, defining value propositions, and executing integrated campaigns to drive customer acquisition and revenue growth.
+    
