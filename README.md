@@ -1,2 +1,3 @@
-# career-portfolio
-Christopher Cadoret Career Portfolio
+
+
+Learn more about my Strategic Services and Leadership Philosophy: [Services](services.md)
