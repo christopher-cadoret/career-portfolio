@@ -1,4 +1,12 @@
-# Strategic Growth & Organizational Transformation Leader
+---
+    layout: single
+    title: "Strategic Services"
+    header:
+      overlay_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=80"
+      overlay_filter: 0.5
+    ---
+    
+    # Strategic Growth & Organizational Transformation Leader
     
     ## Executive Sales Strategy & Revenue Growth
     
@@ -11,4 +19,3 @@
     ## Operational Excellence & PMP Execution
     
     Utilizing PMP-certified project management methodologies to bridge the gap between complex technical initiatives (IoT/VoIP/SaaS) and tangible business ROI. Driving operational efficiency, ensuring flawless execution, and delivering projects on time and within budget, aligned with strategic objectives.
-    
