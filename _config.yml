@@ -1,18 +1,20 @@
+```
 title: "Christopher Cadoret"
-    description: "Senior Business Leader | IoT & SaaS Strategy | PMP"
-    remote_theme: "mmistakes/minimal-mistakes"
-    minimal_mistakes_skin: "corporate"
-    plugins:
-      - jekyll-remote-theme
-      - jekyll-include-cache
-    author:
-      name: "Christopher Cadoret"
-      bio: "Strategic Growth & Organizational Transformation Leader."
-      location: "Mundelein, IL"
-      avatar: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=256&h=256"
-    defaults:
-      - scope:
-          path: ""
-        values:
-          layout: "single"
-          author_profile: true
+description: "Senior Business Leader | IoT & SaaS Strategy | PMP"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "corporate"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+author:
+  name: "Christopher Cadoret"
+  bio: "Strategic Growth & Organizational Transformation Leader."
+  location: "Mundelein, IL"
+  avatar: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=256&h=256"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      author_profile: true
+```
